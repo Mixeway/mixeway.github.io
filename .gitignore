@@ -1,0 +1,5 @@
+.DS_Store
+.gitdocs.json
+.gitdocs_build
+docs
+publish.sh
