@@ -1,1 +1,0 @@
-{"title":"Db","content":"# Mixeway DB <img src=\"https://mixeway.github.io/img/logo_dashboard.png\" height=\"60px\">\n\n## Migrations\nMixeway use Liquibase for DB synchronization. Each time database scheme change in any upcoming version\nit will be backward compatible.\n\n## Use Your own Database Server - will be intordduced in upcoming versions"}
